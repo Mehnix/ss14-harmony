@@ -212,7 +212,7 @@
     - Instruments
     - Equipment
     - FauxTiles
-    - Hydroponics
+    - HarmonyHydroponics # Harmony
   - type: EmagLatheRecipes
     emagDynamicPacks:
     - SecurityAmmo

@@ -13,8 +13,8 @@
   - SeedExtractorMachineCircuitboard
   - HydroponicsTrayMachineCircuitboard
   - ReagentGrinderIndustrialMachineCircuitboard
-  - SyntheticSwab
-  - SwabApplicator
+  - SyntheticSwab #Harmony
+  - SwabApplicator #Harmony
 
 - type: technology
   id: CritterMechs

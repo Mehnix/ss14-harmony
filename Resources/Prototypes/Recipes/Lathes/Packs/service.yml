@@ -58,12 +58,6 @@
   - PushHorn
 
 - type: latheRecipePack
-  id: Hydroponics
-  recipes:
-  - SyntheticSwab
-  - SwabApplicator
-
-- type: latheRecipePack
   id: ServiceBoards
   recipes:
   - BiofabricatorMachineCircuitboard

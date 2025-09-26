@@ -348,6 +348,7 @@
     whitelist:
       tags:
         # - PlantAnalyzer
+        - PlantSampleTaker
         - BotanyShovel
         - BotanyHoe
         - BotanyHatchet
@@ -357,13 +358,13 @@
         - Syringe
         - CigPack
         - Dropper
-        - Swab
-        - SwabApplicator
+        - Swab #Harmony
+        - SwabApplicator #Harmony
       components:
         - Seed
         - Smokable
         - HandLabeler
-        - BotanySwab
+        - BotanySwab #Harmony
   - type: ItemMapper
     mapLayers:
       hatchet:

@@ -5,10 +5,10 @@
         "y": 32
     },
     "license": "CC0-1.0",
-    "copyright": "Created by @moonheart08 on github",
+    "copyright": "Synthswab made by @Mehnix (github)",
     "states": [
         {
-            "name": "icon",
+            "name": "iconsynth",
             "directions": 1
         }
     ]

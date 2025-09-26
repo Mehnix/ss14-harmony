@@ -10,8 +10,9 @@ namespace Content.Server.Botany
     public sealed partial class BotanySwabComponent : Component
     {
         [DataField("swabDelay")]
-        public float SwabDelay = 1f;
+        public float SwabDelay = 1f; //Harmony Change, from 2f
 
+        //Harmony Changes start here
         /// <summary>
         /// Are the swab's contents replaced on swabbing, default true.
         /// </summary>
@@ -42,6 +43,7 @@ namespace Content.Server.Botany
         /// </summary>
         [DataField]
         public SoundSpecifier? CleanSound = new SoundPathSpecifier("/Audio/Effects/unwrap.ogg");
+        //Harmony Changes end here
 
         /// <summary>
         /// SeedData from the first plant that got swabbed.
