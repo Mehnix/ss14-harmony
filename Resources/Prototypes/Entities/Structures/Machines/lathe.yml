@@ -212,6 +212,7 @@
     - Instruments
     - Equipment
     - FauxTiles
+    - Hydroponics
   - type: EmagLatheRecipes
     emagDynamicPacks:
     - SecurityAmmo
