@@ -8,3 +8,21 @@
   - type: ContainerFill
     containers:
       board: [ DoorElectronicsExternal ]
+
+- type: entity
+  parent: AirlockExternal
+  id: AirlockExternalResearchLocked
+  suffix: External, Science, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsResearch ]
+
+- type: entity
+  parent: AirlockExternalGlass
+  id: AirlockExternalGlassResearchLocked
+  suffix: External, Glass, Science, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsResearch ]
