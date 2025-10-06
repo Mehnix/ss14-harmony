@@ -211,7 +211,6 @@
     - Janitor
     - Instruments
     - Equipment
-    - FauxTiles
     - HarmonyHydroponics # Harmony
   - type: EmagLatheRecipes
     emagDynamicPacks:
